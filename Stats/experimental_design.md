@@ -7,6 +7,10 @@ nav_order: 1
 
 - [Optimizely Glossary of Multi-Armed Bandit Problem](https://www.optimizely.com/optimization-glossary/multi-armed-bandit/)
 
+- [Bayesian Multi-armed bandit](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter6_Priorities/Ch6_Priors_PyMC2.ipynb#Example:-Bayesian-Multi-Armed-Bandits),
+
+   A very illustrative example of a Bayesian approach to A/B testing from the book Bayesian Methods for hackers.
+
 - [Calculating Sample Sizes](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Power/BS704_Power_print.html)
 
    A critically important aspect of any study is determining the appropriate sample size to answer the research question. This module will focus on formulas that can be used to estimate the sample size needed to produce a confidence interval estimate with a specified margin of error (precision) or to ensure that a test of hypothesis has a high probability of detecting a meaningful difference in the parameter.
