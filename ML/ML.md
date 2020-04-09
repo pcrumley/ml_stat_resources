@@ -35,3 +35,8 @@ nav_order: 3
 - [*One Hundred Page Machine Learning Book*](http://themlbook.com/), Andriy Burkov
 
    A very broad overview of ML. Terse and a good place to start. Available as a free PDF.
+
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf), Richard S. Sutton
+and Andrew G. Barto
+
+   Classic text on reinforcement learning. Available as a full text pdf.

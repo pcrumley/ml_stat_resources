@@ -17,6 +17,7 @@ nav_order: 1
 
    Great talk about how to get a lot of mileage with tricks using logistic and linear regression.
 
+
 ### Linear regression
 
 ### Logistic regression

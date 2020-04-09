@@ -13,6 +13,13 @@ nav_order: 3
 
    Set of really clear videos giving overview of the theory behind recommendation systems.
 
+
 ## Tools
 - [LightFM](https://making.lyst.com/lightfm/docs/home.html)
    LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
+
+## Other
+
+- [GroupLens](https://grouplens.org/)
+
+   Active ML research group led by Joe Konstan amongst others at University of Minnesota. Both blogs and publications are worth checking out.
