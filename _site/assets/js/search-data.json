@@ -1,0 +1,46 @@
+{
+  
+  "0": {
+    "title": "Machine Learning",
+    "content": "General Resources . Courses . CIS 520: Machine Learning, UPenn . This course provides a thorough modern introduction to the field of machine learning. It is designed for students who want to understand not only what machine learning algorithms do and how they can be used, but also the fundamental principles behind how and why they work. See the course description for more details. . | Statistical Learning, Trevor Hastie &amp; Robert Tibshirani . This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). (Note: the video lectures are accessible without signing up here) . | Machine Learning, Andrew Ng . This course provides a broad introduction to machine learning, data-mining, and statistical pattern recognition. Topics include: (i) Supervised learning parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you’ll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. . | . Books . Data Science From Scratch, Joel Grus A nice, easy to read reference of a wide range of ML/DS problems. Simple a good place to start. . | Deep Learning With Python, François Chollet . Written by the Keras creator, a nice introduction to a lot of deep learning techniques with examples. . | One Hundred Page Machine Learning Book, Andriy Burkov . A very broad overview of ML. Terse and a good place to start. Available as a free PDF. . | .",
+    "url": "http://localhost:4000/ML/ML/",
+    "relUrl": "/ML/ML/"
+  }
+  ,"1": {
+    "title": "Tech Support",
+    "content": "Pytorch . A detailed example of how to generate your data in parallel with PyTorch . A tutorial that shows how to efficiently load data into your GPU PyTorch Models. . | | .",
+    "url": "http://localhost:4000/Tech%20Support/TechIssues/",
+    "relUrl": "/Tech%20Support/TechIssues/"
+  }
+  ,"2": {
+    "title": "Experimental Design",
+    "content": "Optimizely Glossary of Multi-Armed Bandit Problem . | Calculating Sample Sizes . A critically important aspect of any study is determining the appropriate sample size to answer the research question. This module will focus on formulas that can be used to estimate the sample size needed to produce a confidence interval estimate with a specified margin of error (precision) or to ensure that a test of hypothesis has a high probability of detecting a meaningful difference in the parameter. . | Experiments at Airbnb . | Innovating Faster on Personalization Algorithms at Netflix Using Interleaving . To accelerate the pace of algorithm innovation, we have devised a two-stage online experimentation process. The first stage is a fast pruning step in which we identify the most promising ranking algorithms from a large initial set of ideas. The second stage is a traditional A/B test on the pared-down set of algorithms to measure their impact on longer-term member behavior. In this blog post, we focus on our approach to the first stage: an interleaving technique that unlocks our ability to more precisely measure member preferences. . | A Crash Course in Causality: Inferring Causal Effects from Observational Data, Jason Roy . We have all heard the phrase “correlation does not equal causation.” What, then, does equal causation? This course aims to answer that question and more! . | .",
+    "url": "http://localhost:4000/Stats/experimental_design/",
+    "relUrl": "/Stats/experimental_design/"
+  }
+  ,"3": {
+    "title": "Natural Language Processing",
+    "content": "Introductory tutorials . How to solve 90% of NLP problems: a step-by-step guide . Written by an insight alumnus. Begins with the simplest NLP method that could work, and then moves on to more nuanced solutions, such as feature engineering, word vectors, and deep learning. . | A Review of Bert-based models . A blog post giving a review of BERT-based models and explains transformers at a high level. . | What you need to know about the new 2019 Transformer Models . XLNet: Generalized Autoregressive Pretraining for Language Understanding | ERNIE 2.0: A Continual Pre-training Framework for Language Understanding | RoBERTa: A Robustly Optimized BERT Pretraining Approach | . | . Tools . Spacy: Industrial Strength Natural Language Processing . A very convenient python package with lots of pre-trained models for NLP . | 🤗 transformers: State-of-the-art NLP for everyone: . 🤗 Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pre-trained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch. . | .",
+    "url": "http://localhost:4000/ML/nlp/",
+    "relUrl": "/ML/nlp/"
+  }
+  ,"4": {
+    "title": "Sequence Modeling",
+    "content": "Long-Short Term Memory Networks in PyTorch . | NLP From Scratch: Classifying Names with a Character-Level RNN . | The Unreasonable Effectiveness of Recurrent Neural Networks Andrej Karpathy . Classic blog post describing RNNs and LSTMs. . | Understanding LSTM Networks, Christopher Olah . | The Illustrated Transformer, Jay Alammar . High level explantation of transformers. . | Visual explanations of RNN’s . Recurrent Neural Networks are an extremely powerful machine learning technique but they may be a little hard to grasp at first. For those just getting into machine learning and deep learning, this is a guide in plain English with helpful visuals to help you grok RNN’s. . | The fall of RNN / LSTM . | Attention and Augmented Recurrent Neural Networks . Shows ways to augment RNNs: Neural Turing Machines, Attentional Interfaces, Adaptive Computation Time, Neural Programmers . | *Transformers: Attention in Disguise . In this post, we will be describing a class of sequence processing models known as Transformers. Transformers came out on the scene not too long ago and have rocked the natural language processing community because of their pitch: state-of-the-art and efficient sequence processing without recurrent units or convolution. . | .",
+    "url": "http://localhost:4000/ML/sequence/",
+    "relUrl": "/ML/sequence/"
+  }
+  ,"5": {
+    "title": "Statistics",
+    "content": "Statistics . Online Courses . Introduction to Probability and Statistics, MIT OpenCourseWare . This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression. . | . Books covering general topics . Statistical Inference, Casella and Berger . A good introduction to graduate level statistics. . | Elements of Statistical Learning, Hastie, Tibshirani, and Friedman . The textbook showing the rigorous math behind many ML techniques. Available as a free PDF. . | Probabilistic Programming and Bayesian Methods for Hackers, Cam Davidson-Pilon . A great introduction to Probabilistic programming and bayesian methods, e.g. Monte Carlo, MCMC, etc. lots of examples using PyMC3. Free on github. . | . Probability Distributions . Common Probability Distributions: The Data Scientist’s Crib Sheet . Data scientists have hundreds of probability distributions from which to choose. Where to start? Includes descriptions of the following distributions: Bernoulli and Uniform, Binomial and Hypergeometric, Poisson, Geometric and Negative Binomial, Exponential and Weibull, Normal, Log-Normal, Student’s t, and Chi-squared, Gamma and Beta. . | .",
+    "url": "http://localhost:4000/Stats/statistics/",
+    "relUrl": "/Stats/statistics/"
+  }
+  ,"6": {
+    "title": "Main Page",
+    "content": "Main Page . A list of books, blog articles, lectures, online course, and easy to read papers organized by topic. Useful for self-learning. Largely a place for me to keep track of all the places to start with new projects. . Shamelessly compiled and organized from recommended by 2020A NY Insight Data Science fellows. Inspired by these repos . Tried to make it searchable so it is easy to find what you want. Feel free to add. .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  
+}
