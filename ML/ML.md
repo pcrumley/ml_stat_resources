@@ -17,6 +17,8 @@ nav_order: 3
 
    This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). (Note: the video lectures are accessible without signing up [here](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/amp/))
 
+- [CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html), Moses Charikar, Tengyu Ma, Christopher Ré
+
 - [Machine Learning](https://www.coursera.org/learn/machine-learning), Andrew Ng
 
    This course provides a broad introduction to machine learning, data-mining, and statistical pattern recognition. Topics include: (i) Supervised learning parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.

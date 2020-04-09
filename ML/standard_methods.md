@@ -16,6 +16,7 @@ nav_order: 1
 - [PyData talk: Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI)
 
    Great talk about how to get a lot of mileage with tricks using logistic and linear regression.
+
 ### Linear regression
 
 ### Logistic regression
