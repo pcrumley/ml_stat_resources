@@ -1,4 +1,4 @@
-# Main Page 
+# Home
 
 A list of books, blog articles, lectures, online courses, and easy to read papers
 organized by topic. Useful for self-learning. Largely a place for me to keep
