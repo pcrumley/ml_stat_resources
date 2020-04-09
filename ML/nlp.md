@@ -2,7 +2,7 @@
 title: Natural Language Processing
 has_children: false
 parent: Machine Learning
-nav_order: 2
+nav_order: 4
 ---
 
 
