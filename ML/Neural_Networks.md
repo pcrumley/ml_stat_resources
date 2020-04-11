@@ -7,9 +7,9 @@ nav_order: 3
 
 ## Introductions to Neural Networks
 
-- [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+- [But what is a Neural Network? Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
-   Great video series on neural nets by youtuber 3Blue1Brown.
+   Great video series on neural nets by YouTuber 3Blue1Brown.
 
 - [Fully Connected Deep Networks](https://www.oreilly.com/library/view/tensorflow-for-deep/9781491980446/ch04.html)
 

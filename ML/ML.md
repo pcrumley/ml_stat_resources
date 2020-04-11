@@ -28,7 +28,8 @@ Don't know where to start on one of your problems? Use SciKit Learn's handy [flo
 ## Books
 
 - [*Data Science From Scratch*](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=dp_ob_title_bk), Joel Grus
-   A nice, easy to read reference of a wide range of ML/DS problems. Simple a good place to start.
+
+   A nice, easy to read reference of a wide range of ML/DS problems. Simple and a really good place to start.
 
 - [*Deep Learning With Python*](https://www.amazon.com/Deep-Learning-with-Python/dp/B07H5RKKB6/ref=sr_1_3?dchild=1&keywords=Deep+Learning+with+Python&qid=1586443803&s=books&sr=1-3), François Chollet
 
@@ -36,7 +37,7 @@ Don't know where to start on one of your problems? Use SciKit Learn's handy [flo
 
 - [*One Hundred Page Machine Learning Book*](http://themlbook.com/), Andriy Burkov
 
-   A very broad overview of ML. Terse and a good place to start. Available as a free PDF.
+   A very broad overview of ML. Very terse and a good place to start. Available as a free PDF.
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf), Richard S. Sutton
 and Andrew G. Barto

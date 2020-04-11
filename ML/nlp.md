@@ -10,6 +10,7 @@ nav_order: 5
 - [Foundations of Statistical Natural Language Processing](https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf), Christopher Manning & Hinrich Schütze
 
    Foundational text on natural language processing. Available as free pdf online (linked)
+
 ## Introductory tutorials
 
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
