@@ -10,7 +10,6 @@ nav_order: 4
 
    A tutorial that shows how to efficiently load data into your GPU PyTorch Models.
 
--  
 ## Amazon EC2
 
 - [azdaly's](https://github.com/azdaly) Brief Tutorial to getting a Jupyter Notebook running on EC2
