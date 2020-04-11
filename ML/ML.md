@@ -6,6 +6,8 @@ nav_order: 3
 
 # General Resources
 
+Don't know where to start on one of your problems? Use SciKit Learn's handy [flowchart](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html). If it is a text classifying problem, check out the NLP version of the [flowchart](https://developers.google.com/machine-learning/guides/text-classification/step-2-5) from Google.
+
 ## Courses
 
 - [*CIS 520: Machine Learning*](https://www.shivani-agarwal.net/Teaching/CIS-520/Spring-2018/index.html), UPenn

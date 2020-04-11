@@ -29,6 +29,33 @@ nav_order: 5
 
     This overview covers different text feature extractions, dimensionality reduction methods, existing algorithms and techniques, and evaluations methods. Finally, the limitations of each technique and their application in real-world problems are discussed
 
+## Methods
+
+- [Flowchart showing which Text Classifying Method to choose](https://developers.google.com/machine-learning/guides/text-classification/step-2-5)
+
+   A flowchart from Google showing which model to use when classifying textual data. They also have a [whole tutorial](https://developers.google.com/machine-learning/guides/text-classification) on text classification.
+
+- [Creating text features with bag-of-words, n-grams, parts-of-speach and more](http://uc-r.github.io/creating-text-features)
+
+   From UC Irvine Business Analytics programming guide. If you don’t have enough time to read through the entire post, the following hits on the key components:
+  - [Bag-of-words](http://uc-r.github.io/creating-text-features#bag): How to break up long text into individual words.
+  - [Filtering](http://uc-r.github.io/creating-text-features#filter): Different approaches to remove uninformative words.
+  - [Bag of n-grams](http://uc-r.github.io/creating-text-features#ngrams): Retain some context by breaking long text into sequences of words.
+  - [Log likelihood ratio test](http://uc-r.github.io/creating-text-features#likelihood): Identify unique combination of words that are more likely to be used together than not.
+  - [Parts of speech](http://uc-r.github.io/creating-text-features#pos): Tag words with their parts of speech (i.e. noun, verb, adjective).
+
+- [Term frequency --- Inverse Document Frequency from Scratch in Python with Real World Example](https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089)
+
+   Nice blogpost showing how to write your own TD-IDF algorithm to embed documents, and then retrieving documents with a matching score or cosine similarity.
+
+- [What are Word Embeddings for Text](https://machinelearningmastery.com/what-are-word-embeddings/)
+
+   Very brief overview of word embeddings, including using transfer learning with embeddings like [GLoVE](https://nlp.stanford.edu/projects/glove/) or [Word2Vec](https://code.google.com/archive/p/word2vec/).
+
+   [Word Bags vs Word Sequences for Text Classification](https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec)
+
+   Sequence respecting approaches have an edge over bag-of-words implementations when the said sequence is material to classification. Long Short Term Memory (LSTM) neural nets with word sequences are evaluated against Naive Bayes with tf-idf vectors on a synthetic text corpus for classification effectiveness. Uses [Keras](https://keras.io/#you-have-just-found-keras).
+
 ## Tools
 
 - [*Spacy*: Industrial Strength Natural Language Processing](https://spacy.io/)
