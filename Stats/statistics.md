@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Statistics
+
 ## Online Courses
 
 - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm), MIT OpenCourseWare
@@ -27,6 +28,12 @@ nav_order: 2
 
    A great introduction to Probabilistic programming and bayesian methods, e.g. Monte Carlo, MCMC, etc. lots of examples using PyMC3. Free on github.
 
+## Videos
+
+- [StatQuest](https://www.youtube.com/user/joshstarmer)
+
+   A popular youtube that covers lots of statistical concepts.
+   
 ## Odds & Ends
 
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
