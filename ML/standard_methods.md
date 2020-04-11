@@ -20,6 +20,7 @@ nav_order: 1
 - [Solving least squares by Matrix inversion](https://mathworld.wolfram.com/LeastSquaresFitting.html)
 
    Most ML libraries find the minima of e.g. a linear or logistic regression by means of gradient descent. However, you can find the minimum exactly by solving what is called in Linear algebra a [Normal Equation]()
+
 ## Regularization
 
 - [Ridge vs LASSO](https://www.astroml.org/book_figures/chapter8/fig_lasso_ridge.html)
