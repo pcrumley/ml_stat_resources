@@ -4,6 +4,7 @@ has_children: False
 parent: Statistics
 nav_order: 1
 ---
+# Experimental Design and Statistical Inference
 
 - [Optimizely Glossary of Multi-Armed Bandit Problem](https://www.optimizely.com/optimization-glossary/multi-armed-bandit/)
 
