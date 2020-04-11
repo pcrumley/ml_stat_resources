@@ -59,7 +59,7 @@ nav_order: 5
 
 ## Tools
 
-- [*Spacy*: Industrial Strength Natural Language Processing](https://spacy.io/)
+- [*spaCy*: Industrial Strength Natural Language Processing](https://spacy.io/)
 
    A very convenient python package with lots of pre-trained models for NLP
 
