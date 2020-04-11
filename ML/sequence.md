@@ -33,6 +33,6 @@ nav_order: 1
 
    Shows ways to augment RNNs: Neural Turing Machines, Attentional Interfaces, Adaptive Computation Time, Neural Programmers
 
-- [*Transformers: Attention in Disguise](https://www.mihaileric.com/posts/transformers-attention-in-disguise/)
+- [*Transformers*: Attention in Disguise](https://www.mihaileric.com/posts/transformers-attention-in-disguise/)
 
    In this post, we will be describing a class of sequence processing models known as Transformers. Transformers came out on the scene not too long ago and have rocked the natural language processing community because of their pitch: state-of-the-art and efficient sequence processing without recurrent units or convolution.
