@@ -39,7 +39,7 @@ nav_order: 2
 
 - [Heteroscedasticity](https://en.wikipedia.org/wiki/Heteroscedasticity) vs [Homoscedasticity](https://en.wikipedia.org/wiki/Homoscedasticity)
 
-   |![alt text](/assets/imgs/Heteroscedasticity.png  "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)") |![alt text](/assets/imgs/Homoscedasticity.png "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)")|
+   |![alt text](https://raw.githubusercontent.com/pcrumley/ml_stat_resources/master/assets/imgs/Heteroscedasticity.png  "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)") |![alt text](https://raw.githubusercontent.com/pcrumley/ml_stat_resources/master/assets/imgs/Homoscedasticity.png "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)")|
 
    If the underlying distribution is heteroscedastic it may mess up methods that assume variance is uniform and uncorrelated like goodness of fits in regression problems. For more info, check out this [epsiode](https://open.spotify.com/episode/3CERGsxlO53GdkleMiNLy7) of the Data Skeptic Podcast.
 
