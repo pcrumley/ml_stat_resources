@@ -36,7 +36,7 @@ nav_order: 5
 
    A flowchart from Google showing which model to use when classifying textual data. They also have a [whole tutorial](https://developers.google.com/machine-learning/guides/text-classification) on text classification.
 
-- [Creating text features with bag-of-words, n-grams, parts-of-speach and more](http://uc-r.github.io/creating-text-features)
+- [Creating text features](http://uc-r.github.io/creating-text-features)
 
    From UC Irvine Business Analytics programming guide. If you don’t have enough time to read through the entire post, the following hits on the key components:
   - [Bag-of-words](http://uc-r.github.io/creating-text-features#bag): How to break up long text into individual words.
@@ -59,7 +59,7 @@ nav_order: 5
 
 ## Tools
 
-- [*Spacy*: Industrial Strength Natural Language Processing](https://spacy.io/)
+- [*spaCy*: Industrial Strength Natural Language Processing](https://spacy.io/)
 
    A very convenient python package with lots of pre-trained models for NLP
 
