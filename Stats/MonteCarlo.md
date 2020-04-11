@@ -28,7 +28,7 @@ Again, the book [*Probabilistic Programming and Bayesian Methods for Hackers*](h
 - [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 
    A basic description of MCMC methods using minimal jargon and some math but not lots of math.
-   
+
 ## Videos & Presentations
 
 - [An introduction to Gibbs sampling](https://www.youtube.com/watch?v=ER3DDBFzH2g)
@@ -38,3 +38,11 @@ Again, the book [*Probabilistic Programming and Bayesian Methods for Hackers*](h
 - [Introduction to Gibbs Sampling](http://www2.stat.duke.edu/~rcs46/modern_bayes17/lecturesModernBayes17/lecture-7/07-gibbs.pdf)
 
    Slides from Duke's STA 360 course: *Bayesian Methods and Modern Statistics* I'm not a big fan of slides without hearing the presentation, but they look readable. Covers Gibb's sampling with the following distributions as examples: exponential, normal, and pareto.
+
+- [Markov Chain Monte Carlo and the Metropolis Algorithm](https://www.youtube.com/watch?v=h1NOS_wxgGg)
+
+   Youtube: An introduction to the intuition of MCMC and implementation of the Metropolis algorithm. (*35 minutes*)
+
+- [MCMC: Markov Chain Monte Carlo](https://www.youtube.com/watch?v=uyG5DVigEyM)
+
+   A youtube lecture describing MCMC (*20 minutes*)

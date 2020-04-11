@@ -33,7 +33,7 @@ nav_order: 2
 - [StatQuest](https://www.youtube.com/user/joshstarmer)
 
    A popular youtube that covers lots of statistical concepts.
-   
+
 ## Odds & Ends
 
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
@@ -49,7 +49,3 @@ nav_order: 2
    |![alt text](https://raw.githubusercontent.com/pcrumley/ml_stat_resources/master/assets/imgs/Heteroscedasticity.png  "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)") |![alt text](https://raw.githubusercontent.com/pcrumley/ml_stat_resources/master/assets/imgs/Homoscedasticity.png "Q9 at the English language Wikipedia / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)")|
 
    If the underlying distribution is heteroscedastic it may mess up methods that assume variance is uniform and uncorrelated like goodness of fits in regression problems. For more info, check out this [epsiode](https://open.spotify.com/episode/3CERGsxlO53GdkleMiNLy7) of the Data Skeptic Podcast.
-
-- [FAQ: How are the likelihood ratio, Wald, and Lagrange multiplier (score) tests different and/or similar?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faqhow-are-the-likelihood-ratio-wald-and-lagrange-multiplier-score-tests-different-andor-similar/)
-
-   This page introduces the concepts of the a) likelihood ratio test, b) Wald test, and c) score test.

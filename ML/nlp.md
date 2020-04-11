@@ -53,9 +53,9 @@ nav_order: 5
 
    Very brief overview of word embeddings, including using transfer learning with embeddings like [GLoVE](https://nlp.stanford.edu/projects/glove/) or [Word2Vec](https://code.google.com/archive/p/word2vec/).
 
-   [Word Bags vs Word Sequences for Text Classification](https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec)
+- [Word Bags vs Word Sequences for Text Classification](https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec)
 
-   Sequence respecting approaches have an edge over bag-of-words implementations when the said sequence is material to classification. Long Short Term Memory (LSTM) neural nets with word sequences are evaluated against Naive Bayes with tf-idf vectors on a synthetic text corpus for classification effectiveness. Uses [Keras](https://keras.io/#you-have-just-found-keras).
+   Sequence respecting approaches have an edge over bag-of-words implementations when the said sequence is material to classification. Long Short Term Memory (LSTM) neural nets with word sequences are evaluated against Naive Bayes with TF-IDF vectors on a synthetic text corpus for classification effectiveness. Uses [Keras](https://keras.io/#you-have-just-found-keras).
 
 ## Tools
 

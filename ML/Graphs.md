@@ -2,7 +2,7 @@
 title: Graphs
 has_children: False
 parent: Machine Learning
-nav_order: 6
+nav_order: 7
 ---
 
 
