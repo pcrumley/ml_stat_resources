@@ -1,8 +1,10 @@
 ---
 title: Sequence Modeling
 has_children: False
-parent: Machine Learning
-nav_order: 4
+parent: Neural Networks
+grand_parent: Machine Learning
+
+nav_order: 1
 ---
 
 

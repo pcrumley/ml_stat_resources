@@ -5,7 +5,11 @@ parent: Machine Learning
 nav_order: 5
 ---
 
+## Textbooks
 
+- [Foundations of Statistical Natural Language Processing](https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf), Christopher Manning & Hinrich Schütze
+
+   Foundational text on natural language processing. Available as free pdf online (linked)
 ## Introductory tutorials
 
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
@@ -20,6 +24,10 @@ nav_order: 5
   - XLNet: Generalized Autoregressive Pretraining for Language Understanding
   - ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
   - RoBERTa: A Robustly Optimized BERT Pretraining Approach
+
+- [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
+
+    This overview covers different text feature extractions, dimensionality reduction methods, existing algorithms and techniques, and evaluations methods. Finally, the limitations of each technique and their application in real-world problems are discussed
 
 ## Tools
 
