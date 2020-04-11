@@ -43,3 +43,9 @@ Don't know where to start on one of your problems? Use SciKit Learn's handy [flo
 and Andrew G. Barto
 
    Classic text on reinforcement learning. Available as a full text pdf.
+
+## Examples
+
+- [Jupyter Notebooks from Hands on Machine Learning](https://github.com/ageron/handson-ml2)
+
+   A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. The book is available from O'Reilly [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), but the notebooks are free on github with lots of worked examples if you want to try out a new technique.

@@ -30,4 +30,12 @@ nav_order: 3
 
 - [Don't use sigmoid: Neural Nets](https://kharshit.github.io/blog/2018/04/20/don%27t-use-sigmoid-neural-nets)
 
-   I guess everyone should ReLU and tweak the learning rates. If you want to know why read above.
+   I guess everyone should just use ReLU and tweak the learning rates. If you want to know why read above.
+
+- [Deep Learning:  A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf), Gary Marcus
+
+   Against a background of considerable progress in areas such as speech recognition, image recognition, and game playing, and considerable enthusiasm in the popular press, this paper presents ten concerns for deep learning, and suggest that deep learning must be supplemented by other techniques if we are to reach artificial general intelligence.
+
+- [A Gentle Introduction to Dropout for Regularizing Deep Neural Networks](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+
+   A nice introduction to drop-out. A way to prevent NN from overfitting.
