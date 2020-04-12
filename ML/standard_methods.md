@@ -25,7 +25,7 @@ nav_order: 1
 
 - [Ridge vs LASSO](https://www.astroml.org/book_figures/chapter8/fig_lasso_ridge.html)
 
-   A nice plot giving intuition why Ridge ([*L<sup>2</sup>*](https://en.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions)) regularization tries to make parameters to be small whereas LASSO ([*L<sup>1</sup>*](https://en.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions)) regularization tends to force some parameters towards zero, while others can stay large.
+   A nice plot giving intuition why Ridge ([*L<sup>2</sup>*](https://en.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions)) regularization tries to make parameters small whereas LASSO ([*L<sup>1</sup>*](https://en.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions)) regularization tends to force some parameters towards zero, while others can stay large.
 
 
 ## Encoding Data for ML Models

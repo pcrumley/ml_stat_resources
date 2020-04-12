@@ -26,6 +26,12 @@ nav_order: 3
 
    A competing high-level API to build NN in Python. My feeling is PyTorch's online documentation is maybe a little better, but the book [*Deep Learning With Python*](https://www.amazon.com/Deep-Learning-with-Python/dp/B07H5RKKB6/ref=sr_1_3?dchild=1&keywords=Deep+Learning+with+Python&qid=1586443803&s=books&sr=1-3) uses Keras and it is a really good book.
 
+## Presentations
+
+- [Reinforcement Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture8a.pdf)
+
+   Slides from a lecture of CS885 at UC Waterloo.
+
 ## Best practices
 
 - [Don't use sigmoid: Neural Nets](https://kharshit.github.io/blog/2018/04/20/don%27t-use-sigmoid-neural-nets)
