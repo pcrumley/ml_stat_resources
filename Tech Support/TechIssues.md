@@ -13,7 +13,7 @@ nav_order: 4
 ## Amazon EC2
 
 - [azdaly's](https://github.com/azdaly) Brief Tutorial to getting a Jupyter Notebook running on EC2
-  - The trick is to do [this](https://docs.aws.amazon.com/dlami/latest/devguide/setup-jupyter-config.html) (on your EC2 instance). 
+  - The trick is to do [this](https://docs.aws.amazon.com/dlami/latest/devguide/setup-jupyter-config.html) (on your EC2 instance).
   - Then to do [this](https://docs.aws.amazon.com/dlami/latest/devguide/setup-jupyter-start-server.html) (also on your EC2 instance).
   - Then do [this](https://docs.aws.amazon.com/dlami/latest/devguide/setup-jupyter-configure-client-linux.html) (on your local machine).
   - Finally copy and paste the localhost value (often https://localhost:8888) into a web browser.
@@ -21,3 +21,9 @@ nav_order: 4
 - [Run Project Jupyter Notebooks On Amazon EC2](https://chrisalbon.com/aws/basics/run_project_jupyter_on_amazon_ec2/)
 
   A different and more comprehensive guide to getting access to jupyter on EC2.
+
+## GitHub
+
+- [Git-it Electron](https://github.com/jlord/git-it-electron)
+
+   💻 🎓 Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub. This application contains challenges for learning Git and GitHub—by using real Git and GitHub, not emulators.

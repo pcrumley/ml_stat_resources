@@ -11,7 +11,7 @@ nav_order: 1
 
 - [*Long-Short Term Memory Networks in PyTorch*](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
 
-- [*NLP From Scratch: Classifying Names with a Character-Level RNN*](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+   PyTorch Tutorial for LSTMs.
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Andrej Karpathy
 
@@ -19,15 +19,19 @@ nav_order: 1
 
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Christopher Olah
 
+   Blog post describing LSTMs with lots of visuals.
+
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/), Jay Alammar
 
    High level explantation of transformers.
 
 - [Visual explanations of RNN's](https://youtu.be/LHXXI4-IEns)
 
-    Recurrent Neural Networks are an extremely powerful machine learning technique but they may be a little hard to grasp at first. For those just getting into machine learning and deep learning, this is a guide in plain English with helpful visuals to help you grok RNN's.
+    Youtube video. Recurrent Neural Networks are an extremely powerful machine learning technique but they may be a little hard to grasp at first. For those just getting into machine learning and deep learning, this is a guide in plain English with helpful visuals to help you grok RNN's. (*10 mins*)
 
 - [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+
+   Blog post describing what attention is, and why attention based models often outperform LSTMs.
 
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 

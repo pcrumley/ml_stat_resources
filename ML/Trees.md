@@ -28,3 +28,7 @@ nav_order: 6
 - [Pruning a random forest](https://beedotkiran.github.io/forest.html)
 
    Academic paper showing how to prune a random forest...
+
+- [PyData Talk: Isolation Forests for Anomaly Detection](https://www.youtube.com/watch?v=RyFQXQf4w4w)
+
+   The goal of the talk is twofold; on the one hand an in-depth introduction to the class of Isolation Forests and on the other hand a look at the process of extending existing methods to handle missing features and categorical data. The concepts in this talk are accompanied with a [GitHub implementation](https://github.com/cubonacci/mixed-anomaly). (p.s. standard Isolation Forests are part of [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html) and described in [this](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) academic paper.) (*24 mins*)

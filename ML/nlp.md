@@ -29,7 +29,10 @@ nav_order: 5
 - [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 
     This overview covers different text feature extractions, dimensionality reduction methods, existing algorithms and techniques, and evaluations methods. Finally, the limitations of each technique and their application in real-world problems are discussed
+- [*NLP From Scratch: Classifying Names with a Character-Level RNN*](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
 
+   PyTorch tutorial for using RNNs for NLP.
+   
 ## Methods
 
 - [Flowchart showing which Text Classifying Method to choose](https://developers.google.com/machine-learning/guides/text-classification/step-2-5)
