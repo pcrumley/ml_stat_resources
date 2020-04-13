@@ -15,7 +15,9 @@ nav_order: 3
 
    Freely available preview chapter from [*Tensorflow for Deep Learning*](https://www.oreilly.com/library/view/tensorflow-for-deep/9781491980446/). A nice introduction to fully connected deep networks with some brief mathematical theory.
 
+- Coding Neural Networks, 
 
+   A series of posts that cover implementing neural network in numpy including [forward and back propagation](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76), [gradient checking](https://towardsdatascience.com/coding-neural-network-gradient-checking-5222544ccc64), [parameter initialization](https://towardsdatascience.com/coding-neural-network-parameters-initialization-f7c2d770e874), [L2 regularization](https://towardsdatascience.com/coding-neural-network-regularization-43d26655982d), and [dropout](https://towardsdatascience.com/coding-neural-network-dropout-3095632d25ce).
 ## Getting Started
 
 - [Official PyTorch Tutorials](https://pytorch.org/tutorials/)
@@ -36,7 +38,7 @@ nav_order: 3
 
 - [Don't use sigmoid: Neural Nets](https://kharshit.github.io/blog/2018/04/20/don%27t-use-sigmoid-neural-nets)
 
-   I guess everyone should just use ReLU and tweak the learning rates. If you want to know why read above.
+   I guess everyone should just use ReLU and tweak the learning rates to avoid the [dying ReLU Problem](http://theprofessionalspoint.blogspot.com/2019/06/dying-relu-causes-and-solutions-leaky.html). If you want to know why read above.
 
 - [Deep Learning:  A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf), Gary Marcus
 
