@@ -27,3 +27,10 @@ nav_order: 4
 - [Git-it Electron](https://github.com/jlord/git-it-electron)
 
    💻 🎓 Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub. This application contains challenges for learning Git and GitHub—by using real Git and GitHub, not emulators.
+   
+## Jupyter Notebook
+
+- [Binder](https://mybinder.org/)
+
+   Turn a Git repo into a collection of interactive notebooks. Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
+
